@@ -10,7 +10,7 @@ This is a repository to organize the teaching material for [Big Data Analytics](
 <!--- Lectures: 16 - Labs: 17 (30, 30) --->
 
 - Week 1 (Feb. 1-5). 
-  - Lecture 1 (Feb. 1):
+  - Lecture 1 (Feb. 1): [Introduction and the perceptron learning model](./slides/1-bda-perceptron.pdf)
   - Lecture 2 (Feb. 3):
 
 - Week 2 (Feb. 8-12). 
