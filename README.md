@@ -11,19 +11,19 @@ This is a repository to organize the teaching material for [Big Data Analytics](
 
 - Week 1 (Feb. 1-5). 
   - Lecture 1 (Feb. 1): [Introduction and the perceptron learning model](./slides/1-bda-perceptron.pdf)
-  - Lecture 2 (Feb. 3):
+  - Lecture 2 (Feb. 4): The learning problem
 
 - Week 2 (Feb. 8-12). 
-  - Lab 1 (Feb. 9):
-  - Lecture 3 (Feb. 10):
-  - Lab 2 (Feb. 11):
+  - Lab 1 (Feb. 9): [The perceptron learning model](./labs/1-perceptron/perceptron.pdf)
+  - Lecture 3 (Feb. 10): The learning problem
   
 - Week 3 (Feb. 15-19).
-  - Lab 3 (Feb. 16):
+  - Lab 2 (Feb. 16):
   - Lecture 4 (Feb. 18):
-  - Lab 4 (Feb. 19):
+  - Lab 3 (Feb. 19):
 
 - Week 4 (Feb. 22-26).
+  - Lab 4 (Feb. 23):
   - Lecture 5 (Feb. 24):
   - Lab 5 (Feb. 25):
 
