@@ -15,17 +15,15 @@ This is a repository to organize the teaching material for [Big Data Analytics](
 
 - Week 2 (Feb. 8-12). 
   - Lab 1 (Feb. 9): [The perceptron learning model](./labs/1-perceptron/perceptron.pdf)
-  - Lecture 3 (Feb. 10): The learning problem
+  - Lab 2 (Feb. 10): Lab 1 continued.
   
 - Week 3 (Feb. 15-19).
-  - Lab 2 (Feb. 16):
-  - Lecture 4 (Feb. 18):
-  - Lab 3 (Feb. 19):
+  - No class.
 
 - Week 4 (Feb. 22-26).
-  - Lab 4 (Feb. 23):
-  - Lecture 5 (Feb. 24):
-  - Lab 5 (Feb. 25):
+  - Lecture 3 (Feb. 23): Learning theory (bin model, Hoeffding)
+  - Lab 3 (Feb. 24): [The learning problem](./labs/1-learning/learning.pdf)
+  - Lecture 4 (Feb. 25): Learning theory (dichotomies, growth function, break point)
 
 - Week 4 (Mar. 01-07).
   - Lecture 6 (Mar. 3):
