@@ -22,7 +22,7 @@ This is a repository to organize the teaching material for [Big Data Analytics](
 
 - Week 4 (Feb. 22-26).
   - Lecture 3 (Feb. 23): [Learning theory (bin model, Hoeffding)](./slides/2-bda-learning-1.pdf)
-  - Lab 3 (Feb. 24): [The learning problem](./labs/2-learning/learning-1.pdf)
+  - Lab 3 (Feb. 24): [The learning problem](./labs/2-learning/learning.pdf)
   - Lab 4 (Feb. 25): The learning problem (continued).
 
 - Week 4 (Mar. 01-07).
