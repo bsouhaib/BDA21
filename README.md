@@ -15,57 +15,62 @@ This is a repository to organize the teaching material for [Big Data Analytics](
 
 - Week 2 (Feb. 8-12). 
   - Lab 1 (Feb. 9): [The perceptron learning model](./labs/1-perceptron/perceptron.pdf)
-  - Lab 2 (Feb. 10): Lab 1 continued.
+  - Lab 2 (Feb. 10): The perceptron learning model (continued).
   
 - Week 3 (Feb. 15-19).
   - No class.
 
 - Week 4 (Feb. 22-26).
-  - Lecture 3 (Feb. 23): Learning theory (bin model, Hoeffding)
-  - Lab 3 (Feb. 24): [The learning problem](./labs/2-learning/learning.pdf)
-  - Lecture 4 (Feb. 25): Learning theory (dichotomies, growth function, break point)
+  - Lecture 3 (Feb. 23): [Learning theory (bin model, Hoeffding)](./slides/2-bda-learning-1.pdf)
+  - Lab 3 (Feb. 24): [The learning problem](./labs/2-learning/learning-1.pdf)
+  - Lab 4 (Feb. 25): The learning problem (continued).
 
 - Week 4 (Mar. 01-07).
-  - Lecture 6 (Mar. 3):
-  - Lab 6 (Mar. 4):
-  - Lecture 7 (Mar. 5):
+  - Lecture 4 (Mar. 3): [Learning theory (dichotomies, growth function)](./slides/2-bda-learning-2.pdf)
+  - Lecture 5 (Mar. 4): Learning theory (dichotomies, growth function) continued
+  - Lecture 6 (Mar. 5):
+  - Assignment I
 
 - Week 5 (Mar. 08-14).
-  - Lab 7 (Mar. 10):
-  - Lecture 8 (Mar. 10):
-  - Lab 8 (Mar. 11):
+  - Lab 6 (Mar. 10):
+  - Lecture 6 (Mar. 10):
+  - Lab 7 (Mar. 11):
 
 - Week 6 (Mar. 15-21).
-  - Lecture 9 (Mar. 15):
-  - Lab 9 (Mar. 18):
-  - Lab 10 (Mar. 19):
+  - Lecture 7 (Mar. 15):
+  - Lab 8 (Mar. 18):
+  - Lab 9 (Mar. 19):
+  - Assignment II
 
 - Week 7 (Mar. 22-28).
-  - Lab 11 (Mar. 22):
-  - Lecture 10 (Mar. 23):
+  - Lab 10 (Mar. 22):
+  - Lecture 8 (Mar. 23):
 
 - Week 8 (Mar. 29 - Apr. 4).
-  - Lab 12 (Apr. 1):
-  - Lecture 11 (Apr. 2):
+  - Lab 11 (Apr. 1):
+  - Lecture 9 (Apr. 2):
 
 
 **Spring Break**
 
+<!---
 - Week 9 (Apr. 19-25).
- - Lecture 12 (Apr. 21):
+ - Lecture 10 (Apr. 21):
  - Lab 13 (Apr. 23):
+ - Assignment III
+
 
 - Week 10 (Apr. 26 - May 2).
- - Lecture 13 (Apr. 26):
+ - Lecture 11 (Apr. 26):
  - Lab 14 (Apr. 28):
 
 - Week 11 (May 3-9).
- - Lecture 14 (May. 4):
- - Lecture 15 (May. 5):
+ - Lecture 12 (May. 4):
+ - Lecture 13 (May. 5):
 
 - TBC
  - Lab 15 (May. 6):
  - Week 12 (May 10-16).
- 	- Lecture 16 (May. 10):
+ 	- Lecture 14 (May. 10):
  	- Lab 17 (May. 11):
-
+--->
