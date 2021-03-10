@@ -27,14 +27,14 @@ This is a repository to organize the teaching material for [Big Data Analytics](
 
 - Week 4 (Mar. 01-07).
   - Lecture 4 (Mar. 3): [Learning theory (dichotomies, growth function)](./slides/2-bda-learning-2.pdf)
-  - Lecture 5 (Mar. 4): Learning theory (dichotomies, growth function) continued
-  - Lecture 6 (Mar. 5):
+  - Lecture 5 (Mar. 4): Learning theory (dichotomies, growth function) 
+  - Lecture 6 (Mar. 5): Learning theory (break point, VC dimension) 
   - Assignment I
 
 - Week 5 (Mar. 08-14).
-  - Lab 6 (Mar. 10):
-  - Lecture 6 (Mar. 10):
-  - Lab 7 (Mar. 11):
+  - Lab 5 (Mar. 10): [Learning theory](./labs/2-learning/learning2.pdf)
+  - Lab 6 (Mar. 10): Learning theory
+  - Lab 7 (Mar. 11): Learning theory
 
 - Week 6 (Mar. 15-21).
   - Lecture 7 (Mar. 15):
