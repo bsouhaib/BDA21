@@ -36,16 +36,31 @@ This is a repository to organize the teaching material for [Big Data Analytics](
 
 - Week 6 (Mar. 15-21).
   - [Assignment I](./assignments/assignment1.pdf) 
+  assigments/assignment1.pdf
   - Lab 6 (Mar. 15): [Learning theory (continued)](./labs/2-learning/learning2.pdf)
-  - Lab 7 (Mar. 18):
-  - Lecture 8 (Mar. 19):
+  
+    <!--- END OF LEARNING (BIAS AND VARIANCE) --->
+  - Lecture 8 (Mar. 19): [Bias and variance analysis](./slides/2-bda-learning-5.pdf)
+
 
 - Week 7 (Mar. 22-28).
-  - Lab 10 (Mar. 22):
-  - Lecture 8 (Mar. 23):
+
+  <!--- FINISH problem 2.3, Proof of VC and PROOF VC theorem--->
+
+  - Lecture 8 (Mar. 22):
+
+  <!--- LINEAR MODELS --->
+  - Lecture 9 (Mar. 23):
+
+  <!---  EX 3.3 + 3.4 + 3.14 EX linear models--->
+  - Lab 8 (Mar. 25):
+
 
 - Week 8 (Mar. 29 - Apr. 4).
-  - Lab 11 (Apr. 1):
+
+  <!--- ADD LAB/LECTURE? --->
+
+  - Lab 9 (Apr. 1):
   - Lecture 9 (Apr. 2):
 
 
