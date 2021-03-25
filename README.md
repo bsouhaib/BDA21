@@ -36,7 +36,7 @@ This is a repository to organize the teaching material for [Big Data Analytics](
 
 - Week 6 (Mar. 15-21).
   - [Assignment I](./assignments/assignment1.pdf) 
-  assigments/assignment1.pdf
+
   - Lab 6 (Mar. 15): [Learning theory (continued)](./labs/2-learning/learning2.pdf)
   
   - Lecture 8 (Mar. 19): [Bias and variance analysis](./slides/2-bda-learning-5.pdf)
@@ -45,7 +45,7 @@ This is a repository to organize the teaching material for [Big Data Analytics](
 - Week 7 (Mar. 22-28).
 
     <!--- FINISH BIAS AND VARIANCE + (learning 2) problem 2.3 --->
-  - Lab 7 (Mar. 22): [Learning theory (continued)](./labs/2-learning/learning2.pdf)
+  - Lab 7 (Mar. 22): Learning theory (continued)
 
     <!--- LINEAR MODELS  --->
   - Lecture 9 (Mar. 25): [Linear models](./slides/3-linear-model.pdf)
