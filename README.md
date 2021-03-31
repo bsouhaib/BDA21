@@ -58,10 +58,12 @@ This is a repository to organize the teaching material for [Big Data Analytics](
 
 - Week 8 (Mar. 29 - Apr. 4).
 
-  <!--- Linear regression - Ex 3.3, 3.4, 3.14 (bias and variance, related to 3.11)--->
-  - Lab 9 (Apr. 1):
+  <!--- Linear regression - Ex 3.3, 3.4, 3.11, 3.14, 3.15--->
+  - Lab 8 (March. 31): [Linear regression](./labs/3-linearl-model/linear-regression.pdf)
 
   <!--- Linear classfiication - 3.7, 3.9, 3.10, 3.4  + Hessian of logistic regression (see notes) --->
+  - Lab 9 (Apr. 1):
+
   - Lab 10 (Apr. 2):
 
   <!--- ADD LAB/LECTURE? --->
