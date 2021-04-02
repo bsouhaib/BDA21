@@ -62,9 +62,9 @@ This is a repository to organize the teaching material for [Big Data Analytics](
   - Lab 8 (March. 31): [Linear regression](./labs/3-linear-model/linear-regression.pdf)
 
   <!--- Linear classfiication - 3.7, 3.9, 3.10, 3.4  + Hessian of logistic regression (see notes) --->
-  - Lab 9 (Apr. 1):
+  - Lab 9 (Apr. 1): Linear regression (continued)
 
-  - Lab 10 (Apr. 2):
+  - Lab 10 (Apr. 2): [Linear classification](./labs/3-linear-model/linear-classification.pdf)
 
   <!--- ADD LAB/LECTURE? --->
   <!--- Convergence proofs of gradient descent --->
