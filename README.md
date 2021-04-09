@@ -66,21 +66,51 @@ This is a repository to organize the teaching material for [Big Data Analytics](
 
   - Lab 10 (Apr. 2): [Linear classification](./labs/3-linear-model/linear-classification.pdf)
 
-  <!--- ADD LAB/LECTURE? --->
   <!--- Convergence proofs of gradient descent --->
   <!--- https://raghumeka.github.io/CS289ML/gdnotes.pdf --->
   <!---  https://www.stat.cmu.edu/~ryantibs/convexopt-F13/scribes/lec6.pdf --->
   <!---  APPLIED EXERCISES --->
 
 
-  <!--- 3.5? 3.11? 3.15?, 3.16 --->
-  - Assignment II
+  <!--- 3.5?--->
+  - [Assignment II](./assignments/assignment2.pdf) 
+
+  <!---  
+  Assignment I: perceptron, growth function, one exercise on VC dimension
+  
+  Assignment II: regression loss, regression properties and gradient descent
+  * Problem 1.12 (mse vs mae)
+  * Regression:  Problem 3.12
+  * Optimization: 3.17 -> Show them that the vectorized version can be written in scalar form
+
+  * Implement linear regression with gradient descent ? 
+
+  * Ask them to go through the proof of Gradient descent convergence: https://raghumeka.github.io/CS289ML/gdnotes.pdf
+
+  Assignment III: linear classification
+  * Proof of convergence for stochastic gradient descent
+  * Implement Newton's method and gradient descent for logistic regression: gradient and hessian
+
+  Assignment IV:
+  * on neural networks?
+  --->
+
+<!---
+  * Graph Neural Networks - https://www.cs.mcgill.ca/~wlh/grl_book/
+  * Multitask Learning
+  * Fairness in machine learning: https://fairmlclass.github.io/
+  * https://fairmlbook.org/
+  * Optimization in deep learning: https://www.deeplearningbook.org/
+  * Reccurent Neural Networks
+
+https://www.cs.mcgill.ca/~dprecup/courses/ML/Lectures/ml-lecture05.pdf
+  --->
 
 
 
 **Spring Break**
 
-<!--- Identify 5 papers or 5 topics ??  --->
+<!--- PROJECT: Identify 5 papers or 5 topics ??  --->
 
 <!--- Lecture 11 12 (Neural networks, Pytorch) 13 14 15 (more on NN?, regularization, kernel learning/trick?, SVM?) --->
 <!---  Lab 12, 13, 14, 15 --->
