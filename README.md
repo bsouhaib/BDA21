@@ -5,6 +5,10 @@ This is a repository to organize the teaching material for [Big Data Analytics](
 
 - [Moodle (for discussion forum, assignments)](https://moodle.umons.ac.be/course/view.php?id=2786s)
 
+# Project
+
+- [Project 2020-2021](project/project.pdf)
+
 # Content
 
 <!--- Lectures: 16 - Labs: 17 (30, 30) --->
