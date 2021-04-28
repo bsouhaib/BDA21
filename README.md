@@ -120,8 +120,6 @@ This is a repository to organize the teaching material for [Big Data Analytics](
 https://www.cs.mcgill.ca/~dprecup/courses/ML/Lectures/ml-lecture05.pdf
   --->
 
-
-
 **Spring Break**
 
 <!--- Lecture 11 12 (Neural networks, KERAS) 13 14 15 (more on NN?, regularization, kernel learning/trick?, SVM?) --->
