@@ -87,13 +87,24 @@ This is a repository to organize the teaching material for [Big Data Analytics](
   * Regression:  Problem 3.12
   * Optimization: 3.17 -> Show them that the vectorized version can be written in scalar form
 
-  * Implement linear regression with gradient descent ? 
-
-  * Ask them to go through the proof of Gradient descent convergence: https://raghumeka.github.io/CS289ML/gdnotes.pdf
 
   Assignment III: linear classification
-  * Proof of convergence for stochastic gradient descent
+  * Implement linear regression with gradient descent ? 
   * Implement Newton's method and gradient descent for logistic regression: gradient and hessian
+  * ASSIGMENT III BDA: https://github.com/ageron/handson-ml2/blob/master/04_training_linear_models.ipynb
+ https://www.cs.princeton.edu/courses/archive/spring19/cos324/files/logistic-regression.pdf
+
+  ************
+  https://github.com/ageron/handson-ml2/blob/master/04_training_linear_models.ipynb
+  https://github.com/syaning/stanford-machine-learning/blob/master/machine-learning-ex2/ex2-py/costFunction.py
+  file:///Users/bsouhaib/Dropbox/_TEACHING/UMONS/2019-2020/BDA20/assignments/assignment3_solution.html
+  * GRADIENT DESCENT FOR MULTI-CLASS CLASSIFICATION
+  * Linear regression using batch gradient descent
+
+  * TWO-DIMENSIONAL PROBLEMS
+    * Normal equations (+ Generalized inverse)
+    * Batch Gradient Descent for Softmax Regression
+  ************
 
   Assignment IV:
   * on neural networks?
@@ -106,7 +117,6 @@ This is a repository to organize the teaching material for [Big Data Analytics](
   * https://fairmlbook.org/
   * Optimization in deep learning: https://www.deeplearningbook.org/
   * Reccurent Neural Networks
-
 https://www.cs.mcgill.ca/~dprecup/courses/ML/Lectures/ml-lecture05.pdf
   --->
 
@@ -114,31 +124,40 @@ https://www.cs.mcgill.ca/~dprecup/courses/ML/Lectures/ml-lecture05.pdf
 
 **Spring Break**
 
-<!--- PROJECT: Identify 5 papers or 5 topics ??  --->
+<!--- Lecture 11 12 (Neural networks, KERAS) 13 14 15 (more on NN?, regularization, kernel learning/trick?, SVM?) --->
+<!---  Lab 13, 14, 15 (Neural Networks) --->
 
-<!--- Lecture 11 12 (Neural networks, Pytorch) 13 14 15 (more on NN?, regularization, kernel learning/trick?, SVM?) --->
-<!---  Lab 12, 13, 14, 15 --->
-
-<!---
 - Week 9 (Apr. 19-25).
- - Lecture 10 (Apr. 21):
- - Lab 13 (Apr. 23):
- - Assignment III
+ - Lab 11 (Apr. 21): Linear classification (continued)
+ - Lab 12 (Apr. 23): Linear classification (continued)
 
 
 - Week 10 (Apr. 26 - May 2).
- - Lecture 11 (Apr. 26):
- - Lab 14 (Apr. 28):
-  - Assignment IV
+ - Lecture 11 (Apr. 26): [Neural Networks I](./slides/5-neural-networks/5-neural-networks.pdf)
+
+ - Lecture 12 (Apr. 28): [Neural Networks II](./slides/5-neural-networks/5-backpropagation.pdf)
+ 
+ - Assignment III: TBA
 
 
+ <!--- DEEP NETS - Universal Approximation Theorem --->
+ <!--- BACKPROPAGATION --->
+ <!--- Advanced NN (architectectures, regularization, variational bayes, etc) --->
+ <!---  https://atcold.github.io/pytorch-Deep-Learning/en/week02/02-1/ --->
+ <!---   https://abidlabs.github.io/Atomic-Experiments/--->
+ <!---   SEE OTHERS --->
+
+<!---
 - Week 11 (May 3-9).
- - Lecture 12 (May. 4):
- - Lecture 13 (May. 5):
+ - Lab 13 (May. 4): Neural Networks
+ 
+ - Lecture 13 (May. 5): Neural Networks III
 
- - Lab 15 (May. 6): (TBC)
+ - Lab 14 (May. 6): ??
+ - Assignment IV:
+
 
  - Week 12 (May 10-16).
- 	- Lecture 14 (May. 10):
- 	- Lab 17 (May. 11):
+ 	- Lecture 14 (May. 10): Neural Networks IV
+ 	- Lab 15 (May. 11): ??
 --->
