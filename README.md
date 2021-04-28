@@ -133,7 +133,7 @@ https://www.cs.mcgill.ca/~dprecup/courses/ML/Lectures/ml-lecture05.pdf
 - Week 10 (Apr. 26 - May 2).
  - Lecture 11 (Apr. 26): [Neural Networks I](./slides/5-neural-networks/5-neural-networks.pdf)
 
- - Lecture 12 (Apr. 28): [Neural Networks II](./slides/5-neural-networks/5-backpropagation.pdf)
+ - Lecture 12 (Apr. 28): [Neural Networks II (Backpropagation)](./slides/5-neural-networks/5-backpropagation.pdf)
  
  - Assignment III: TBA
 
