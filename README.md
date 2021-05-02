@@ -79,37 +79,6 @@ This is a repository to organize the teaching material for [Big Data Analytics](
   <!--- 3.5?--->
   - [Assignment II](./assignments/assignment2.pdf) 
 
-  <!---  
-  Assignment I: perceptron, growth function, one exercise on VC dimension
-  
-  Assignment II: regression loss, regression properties and gradient descent
-  * Problem 1.12 (mse vs mae)
-  * Regression:  Problem 3.12
-  * Optimization: 3.17 -> Show them that the vectorized version can be written in scalar form
-
-
-  Assignment III: linear classification
-  * Implement linear regression with gradient descent ? 
-  * Implement Newton's method and gradient descent for logistic regression: gradient and hessian
-  * ASSIGMENT III BDA: https://github.com/ageron/handson-ml2/blob/master/04_training_linear_models.ipynb
- https://www.cs.princeton.edu/courses/archive/spring19/cos324/files/logistic-regression.pdf
-
-  ************
-  https://github.com/ageron/handson-ml2/blob/master/04_training_linear_models.ipynb
-  https://github.com/syaning/stanford-machine-learning/blob/master/machine-learning-ex2/ex2-py/costFunction.py
-  file:///Users/bsouhaib/Dropbox/_TEACHING/UMONS/2019-2020/BDA20/assignments/assignment3_solution.html
-  * GRADIENT DESCENT FOR MULTI-CLASS CLASSIFICATION
-  * Linear regression using batch gradient descent
-
-  * TWO-DIMENSIONAL PROBLEMS
-    * Normal equations (+ Generalized inverse)
-    * Batch Gradient Descent for Softmax Regression
-  ************
-
-  Assignment IV:
-  * on neural networks?
-  --->
-
 <!---
   * Graph Neural Networks - https://www.cs.mcgill.ca/~wlh/grl_book/
   * Multitask Learning
@@ -135,11 +104,29 @@ https://www.cs.mcgill.ca/~dprecup/courses/ML/Lectures/ml-lecture05.pdf
 
  - Lecture 12 (Apr. 28): [Neural Networks II (Backpropagation)](./slides/5-neural-networks/5-backpropagation.pdf)
  
- - Assignment III: TBA
+ - Assignment III: [[Notebook (exercises)]](./assignments/assignment3.ipynb)
 
+   <!---  
+  Assignment III: linear classification
+  * Implement linear regression with gradient descent ? 
+  * Implement Newton's method and gradient descent for logistic regression: gradient and hessian
+  * ASSIGMENT III BDA: https://github.com/ageron/handson-ml2/blob/master/04_training_linear_models.ipynb
+ https://www.cs.princeton.edu/courses/archive/spring19/cos324/files/logistic-regression.pdf
 
- <!--- DEEP NETS - Universal Approximation Theorem --->
+  ************
+  https://github.com/ageron/handson-ml2/blob/master/04_training_linear_models.ipynb
+  https://github.com/syaning/stanford-machine-learning/blob/master/machine-learning-ex2/ex2-py/costFunction.py
+  file:///Users/bsouhaib/Dropbox/_TEACHING/UMONS/2019-2020/BDA20/assignments/assignment3_solution.html
+
+  * TWO-DIMENSIONAL PROBLEMS
+    * Linear regression using batch gradient descent + Normal equations (+ Generalized inverse)
+    * Batch Gradient Descent for Softmax Regression + GRADIENT DESCENT FOR MULTI-CLASS CLASSIFICATION
+
+  ************
+  --->
+
  <!--- BACKPROPAGATION --->
+ <!--- DEEP NETS - Universal Approximation Theorem --->
  <!--- Advanced NN (architectectures, regularization, variational bayes, etc) --->
  <!---  https://atcold.github.io/pytorch-Deep-Learning/en/week02/02-1/ --->
  <!---   https://abidlabs.github.io/Atomic-Experiments/--->
@@ -147,7 +134,7 @@ https://www.cs.mcgill.ca/~dprecup/courses/ML/Lectures/ml-lecture05.pdf
 
 <!---
 - Week 11 (May 3-9).
- - Lab 13 (May. 4): Neural Networks
+ - Lab 13 (May. 4): Neural Networks (Regularization?)
  
  - Lecture 13 (May. 5): Neural Networks III
 
