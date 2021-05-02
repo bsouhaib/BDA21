@@ -104,7 +104,7 @@ https://www.cs.mcgill.ca/~dprecup/courses/ML/Lectures/ml-lecture05.pdf
 
  - Lecture 12 (Apr. 28): [Neural Networks II (Backpropagation)](./slides/5-neural-networks/5-backpropagation.pdf)
  
- - Assignment III: [[Notebook (exercises)]](./assignments/assignment3.ipynb)
+ - Assignment III: [[Notebook]](./assignments/assignment3.ipynb)
 
    <!---  
   Assignment III: linear classification
