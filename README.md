@@ -106,43 +106,21 @@ https://www.cs.mcgill.ca/~dprecup/courses/ML/Lectures/ml-lecture05.pdf
  
  - Assignment III: [[Notebook]](./assignments/assignment3.ipynb)
 
-   <!---  
-  Assignment III: linear classification
-  * Implement linear regression with gradient descent ? 
-  * Implement Newton's method and gradient descent for logistic regression: gradient and hessian
-  * ASSIGMENT III BDA: https://github.com/ageron/handson-ml2/blob/master/04_training_linear_models.ipynb
- https://www.cs.princeton.edu/courses/archive/spring19/cos324/files/logistic-regression.pdf
-
-  ************
-  https://github.com/ageron/handson-ml2/blob/master/04_training_linear_models.ipynb
-  https://github.com/syaning/stanford-machine-learning/blob/master/machine-learning-ex2/ex2-py/costFunction.py
-  file:///Users/bsouhaib/Dropbox/_TEACHING/UMONS/2019-2020/BDA20/assignments/assignment3_solution.html
-
-  * TWO-DIMENSIONAL PROBLEMS
-    * Linear regression using batch gradient descent + Normal equations (+ Generalized inverse)
-    * Batch Gradient Descent for Softmax Regression + GRADIENT DESCENT FOR MULTI-CLASS CLASSIFICATION
-
-  ************
-  --->
-
- <!--- BACKPROPAGATION --->
  <!--- DEEP NETS - Universal Approximation Theorem --->
  <!--- Advanced NN (architectectures, regularization, variational bayes, etc) --->
  <!---  https://atcold.github.io/pytorch-Deep-Learning/en/week02/02-1/ --->
  <!---   https://abidlabs.github.io/Atomic-Experiments/--->
  <!---   SEE OTHERS --->
 
-<!---
+
 - Week 11 (May 3-9).
- - Lab 13 (May. 4): Neural Networks (Regularization?)
- 
- - Lecture 13 (May. 5): Neural Networks III
+ - Lab 13 (May. 4): Neural Networks (Backpropagation) [[Notebook]](./labs/nn.ipynb)
+ - Lecture 13 (May. 4): Neural Networks (Generalization)  <!---  REGULARIZATION (DROPOUT, etc) + RNN (LSTM gradient) + PyTorch/Keras on a dataset? --->
 
- - Lab 14 (May. 6): ??
- - Assignment IV:
+ - Lab 14 (May. 6): ??  <!--- Introduction to Pytroch (tutorial) + Neural network best practices (tutorial) --->
 
-
+<!---
  - Week 12 (May 10-16).
- 	- Lecture 14 (May. 10): Neural Networks IV
+ 	- Lecture 14 (May. 10): Revision
  	- Lab 15 (May. 11): ??
 --->
