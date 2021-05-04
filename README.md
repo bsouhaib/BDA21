@@ -115,9 +115,12 @@ https://www.cs.mcgill.ca/~dprecup/courses/ML/Lectures/ml-lecture05.pdf
 
 - Week 11 (May 3-9).
  - Lab 13 (May. 4): Neural Networks (Backpropagation) [[Notebook]](./labs/nn.ipynb)
- - Lecture 13 (May. 4): Neural Networks (Generalization)  <!---  REGULARIZATION (DROPOUT, etc) + RNN (LSTM gradient) + PyTorch/Keras on a dataset? --->
+ - Lecture 13 (May. 4): Neural Networks (Generalization)  
 
- - Lab 14 (May. 6): ??  <!--- Introduction to Pytroch (tutorial) + Neural network best practices (tutorial) --->
+ <!---  REGULARIZATION (DROPOUT, etc) + RNN (LSTM gradient) + PyTorch/Keras on a dataset? --->
+
+ - Lab 14 (May. 6): ??  
+ <!--- Introduction to Pytroch (tutorial) + Neural network best practices (tutorial) --->
 
 <!---
  - Week 12 (May 10-16).
