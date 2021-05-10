@@ -39,7 +39,7 @@ This is a repository to organize the teaching material for [Big Data Analytics](
   - Lecture 7 (Mar. 11): Learning theory (VC dimension of perceptrons, interpretation of VC dimension, etc)
 
 - Week 6 (Mar. 15-21).
-  - [Assignment I](./assignments/assignment1.pdf) 
+  - [Assignment I](./assignments/assignment1.pdf)  [(Solution)](./assignments/assignment1-solution.ipynb)
 
   - Lab 6 (Mar. 15): [Learning theory (continued)](./labs/2-learning/learning2.pdf)
   
@@ -77,7 +77,9 @@ This is a repository to organize the teaching material for [Big Data Analytics](
 
 
   <!--- 3.5?--->
-  - [Assignment II](./assignments/assignment2.pdf) 
+  - [Assignment II](./assignments/assignment2.pdf)   [(Solution)](./assignments/assignment2-solution.ipynb)  [(Solution exercise 4)](./assignments/assignment2-soll-ex4.pdf) 
+
+
 
 <!---
   * Graph Neural Networks - https://www.cs.mcgill.ca/~wlh/grl_book/
@@ -117,14 +119,9 @@ https://www.cs.mcgill.ca/~dprecup/courses/ML/Lectures/ml-lecture05.pdf
  - Lab 13 (May. 4): Neural Networks (Backpropagation) [[Notebook]](./labs/4-NN/nn.ipynb) [[Notebook (solution)]](./labs/4-NN/nnsol.ipynb)
  - Lab 14 (May. 4): Neural Networks (Backpropagation) (continued)
 
+ - Lecture 13  (May. 6):  [Neural Networks II (Generalization)](./slides/5-neural-networks/5-generalization.pdf)
 
- - Lecture 13  (May. 6): Neural Networks (Generalization) 
 
-<!--- RNN (LSTM gradient) + PyTorch/Keras on a dataset? --->  
- <!--- Introduction to Pytroch (tutorial) + Neural network best practices (tutorial) --->
-
-<!---
  - Week 12 (May 10-16).
- 	- Lecture 14 (May. 10): Revision
- 	- Lab 15 (May. 11): ??
---->
+
+ 	- Lecture 14 (May. 10):  Neural Networks II (Generalization) (continued)
