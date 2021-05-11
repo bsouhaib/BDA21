@@ -74,18 +74,14 @@ This is a repository to organize the teaching material for [Big Data Analytics](
   - Lab 12 (Apr. 23): Linear classification (continued)
 
 - Week 10 (Apr. 26 - May 2).
- - Lecture 11 (Apr. 26): [Neural Networks I](./slides/5-neural-networks/5-neural-networks.pdf)
-
- - Lecture 12 (Apr. 28): [Neural Networks II (Backpropagation)](./slides/5-neural-networks/5-backpropagation.pdf)
- 
- - Assignment III: [[Notebook]](./assignments/assignment3.ipynb)
+  - Lecture 11 (Apr. 26): [Neural Networks I](./slides/5-neural-networks/5-neural-networks.pdf)
+  - Lecture 12 (Apr. 28): [Neural Networks II (Backpropagation)](./slides/5-neural-networks/5-backpropagation.pdf)
+  - Assignment III: [[Notebook]](./assignments/assignment3.ipynb)
 
 - Week 11 (May 3-9).
- - Lab 13 (May. 4): Neural Networks (Backpropagation) [[Notebook]](./labs/4-NN/nn.ipynb) [[Notebook (solution)]](./labs/4-NN/nnsol.ipynb)
- - Lab 14 (May. 4): Neural Networks (Backpropagation) (continued)
-
- - Lecture 13  (May. 6):  [Neural Networks II (Generalization)](./slides/5-neural-networks/5-generalization.pdf)
+  - Lab 13 (May. 4): Neural Networks (Backpropagation) [[Notebook]](./labs/4-NN/nn.ipynb) [[Notebook (solution)]](./labs/4-NN/nnsol.ipynb)
+  - Lab 14 (May. 4): Neural Networks (Backpropagation) (continued)
+  - Lecture 13  (May. 6):  [Neural Networks II (Generalization)](./slides/5-neural-networks/5-generalization.pdf)
 
 - Week 12 (May 10-16).
-
- 	- Lecture 14 (May. 10):  Neural Networks II (Generalization) (continued)
+  - Lecture 14 (May. 10):  Neural Networks II (Generalization) (continued)
