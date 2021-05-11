@@ -48,58 +48,30 @@ This is a repository to organize the teaching material for [Big Data Analytics](
 
 - Week 7 (Mar. 22-28).
 
-    <!--- FINISH BIAS AND VARIANCE + (learning 2) problem 2.3 --->
   - Lab 7 (Mar. 22): Learning theory (continued)
 
-    <!--- LINEAR MODELS  --->
   - Lecture 9 (Mar. 25): [Linear models](./slides/3-linear-model.pdf)
 
-
-    <!--- Gradient descent --->
   - Lecture 10 (Mar. 25): [Gradient descent](./slides/3-linear-model.pdf)
 
 
 
 - Week 8 (Mar. 29 - Apr. 4).
 
-  <!--- Linear regression - Ex 3.3, 3.4, 3.11, 3.14, 3.15--->
   - Lab 8 (March. 31): [Linear regression](./labs/3-linear-model/linear-regression.pdf)
 
-  <!--- Linear classfiication - 3.7, 3.9, 3.10, 3.4  + Hessian of logistic regression (see notes) --->
   - Lab 9 (Apr. 1): Linear regression (continued)
 
   - Lab 10 (Apr. 2): [Linear classification](./labs/3-linear-model/linear-classification.pdf)
 
-  <!--- Convergence proofs of gradient descent --->
-  <!--- https://raghumeka.github.io/CS289ML/gdnotes.pdf --->
-  <!---  https://www.stat.cmu.edu/~ryantibs/convexopt-F13/scribes/lec6.pdf --->
-  <!---  APPLIED EXERCISES --->
-
-
-  <!--- 3.5?--->
   - [Assignment II](./assignments/assignment2.pdf)   [(Solution)](./assignments/assignment2-solution.ipynb)  [(Solution exercise 4)](./assignments/assignment2-soll-ex4.pdf) 
 
 
-
-<!---
-  * Graph Neural Networks - https://www.cs.mcgill.ca/~wlh/grl_book/
-  * Multitask Learning
-  * Fairness in machine learning: https://fairmlclass.github.io/
-  * https://fairmlbook.org/
-  * Optimization in deep learning: https://www.deeplearningbook.org/
-  * Reccurent Neural Networks
-https://www.cs.mcgill.ca/~dprecup/courses/ML/Lectures/ml-lecture05.pdf
-  --->
-
 **Spring Break**
-
-<!--- Lecture 11 12 (Neural networks, KERAS) 13 14 15 (more on NN?, regularization, kernel learning/trick?, SVM?) --->
-<!---  Lab 13, 14, 15 (Neural Networks) --->
 
 - Week 9 (Apr. 19-25).
  - Lab 11 (Apr. 21): Linear classification (continued)
  - Lab 12 (Apr. 23): Linear classification (continued)
-
 
 - Week 10 (Apr. 26 - May 2).
  - Lecture 11 (Apr. 26): [Neural Networks I](./slides/5-neural-networks/5-neural-networks.pdf)
@@ -108,20 +80,12 @@ https://www.cs.mcgill.ca/~dprecup/courses/ML/Lectures/ml-lecture05.pdf
  
  - Assignment III: [[Notebook]](./assignments/assignment3.ipynb)
 
- <!--- DEEP NETS - Universal Approximation Theorem --->
- <!--- Advanced NN (architectectures, regularization, variational bayes, etc) --->
- <!---  https://atcold.github.io/pytorch-Deep-Learning/en/week02/02-1/ --->
- <!---   https://abidlabs.github.io/Atomic-Experiments/--->
- <!---   SEE OTHERS --->
-
-
 - Week 11 (May 3-9).
  - Lab 13 (May. 4): Neural Networks (Backpropagation) [[Notebook]](./labs/4-NN/nn.ipynb) [[Notebook (solution)]](./labs/4-NN/nnsol.ipynb)
  - Lab 14 (May. 4): Neural Networks (Backpropagation) (continued)
 
  - Lecture 13  (May. 6):  [Neural Networks II (Generalization)](./slides/5-neural-networks/5-generalization.pdf)
 
-
- - Week 12 (May 10-16).
+- Week 12 (May 10-16).
 
  	- Lecture 14 (May. 10):  Neural Networks II (Generalization) (continued)
