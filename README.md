@@ -67,11 +67,11 @@ This is a repository to organize the teaching material for [Big Data Analytics](
   - [Assignment II](./assignments/assignment2.pdf)   [(Solution)](./assignments/assignment2-solution.ipynb)  [(Solution exercise 4)](./assignments/assignment2-soll-ex4.pdf) 
 
 
-**Spring Break**
+- **Spring Break**
 
 - Week 9 (Apr. 19-25).
- - Lab 11 (Apr. 21): Linear classification (continued)
- - Lab 12 (Apr. 23): Linear classification (continued)
+  - Lab 11 (Apr. 21): Linear classification (continued)
+  - Lab 12 (Apr. 23): Linear classification (continued)
 
 - Week 10 (Apr. 26 - May 2).
  - Lecture 11 (Apr. 26): [Neural Networks I](./slides/5-neural-networks/5-neural-networks.pdf)
